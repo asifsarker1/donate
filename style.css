@@ -1,0 +1,171 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    font-size: 18px;
+}
+section{
+    margin-top: 8%;
+}
+h1{
+    font-family: 'Inter', sans-serif;
+    font-size: 65px;
+}
+.header{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+    text-align: center;
+    padding: 10% 0%;
+}
+#border{
+    margin-top: 0%;
+}
+.link{
+    text-decoration: none;
+    color: white;
+    background-color: orange;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+#first-margin{
+margin: 0% 20%;
+}
+#second-margin{
+    margin: 0% 28%;
+}
+h2{
+    font-size: 45px;
+    text-align: center;
+}
+.paragraph{
+    text-align: center;
+}
+.third{
+    text-align: center;
+    padding: 0% 28%
+}
+.four{
+    display: flex;
+}
+.forgot{
+    margin-right: 30%;
+    margin-left: 30%;
+}
+.forgot-2{
+margin: 0% 25%;
+
+}
+.forgot-3{
+    text-align: center;
+    color: #B3B3B3;
+}
+.forgot-4{
+    text-align: center;
+}
+#button{
+    text-decoration: none;
+    color: white;
+    background-color: orange;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+.first-div{
+    display: flex;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 30px;
+    color: #707070;
+    font-weight: 700;
+}
+#a-one{
+    padding: 3% 1%;
+    background-color: #FAFAFA;
+    margin-left: 30%;
+}
+#a-two{
+    padding: 3% 1%;
+    color: #FF5959;
+    background-color: #fcdede;
+    border: 1px solid #FF5959;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+#a-three{
+    padding: 3% 1%;
+    background-color: #FAFAFA;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+#a-four{
+    padding: 3% 1%;
+    background-color: #FAFAFA;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+#a-five{
+    padding: 3% 1%;
+    background-color: #FAFAFA;
+    margin-left: 1%;
+}
+.second-div{
+    background-color: aquamarine;
+    box-shadow: 0px 0px 0px 0px black;
+    width: 50%;
+}
+#one{
+    padding: 2% 1%;
+    background-color: bisque;
+    margin-left: 4%;
+    margin-right: 1%;
+}
+#two{
+    padding: 2% 1%;
+    background-color: aquamarine;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+#thiree{
+    padding: 2% 1%;
+    background-color: darkgoldenrod;
+    margin-left: 1%;
+    margin-right: 4%;
+}
+.five{
+    display: flex;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.five img{
+    width: 100;
+}
+.third-div{
+    padding-right: 10%;
+}
+.six{
+    text-align: center;
+    margin: 0% 28%;
+}
+.boxing{
+    background-color: #fff4d4;
+    padding: 10% 20%;
+}
+#email{
+    background-color: #D9D9D9;
+    text-align: left;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    padding: 1% 5%;
+}
+.last{
+    font-family: 'Lobster', cursive;
+    font-size: 36px;
+    color: #FF5959;
+}
+.tiny{
+    font-family: 'Manrope', sans-serif;
+    font-size: 14px;
+    color: #D9DBE1;
+}
